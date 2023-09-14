@@ -1,0 +1,51 @@
+header{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+header h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+header p{
+    font-size: 30px;
+}
+
+.first-section{
+    background-color: aqua;
+    margin: 10px 0px 10px 0px;
+}
+
+.first-section a {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+table{
+    display: flex;
+    margin: 1em;
+    justify-content: center;
+    background-color: rgb(184, 174, 240);
+}
+
+
+
+.tabela-resto   {
+    background-color: aliceblue;
+}
+
+.title-table{
+    background-color: rgb(179, 246, 244)  ;
+}
+
+*{
+    text-align: center;
+}
+
+article{
+    background-color: black;
+    color: aliceblue;
+}
+
