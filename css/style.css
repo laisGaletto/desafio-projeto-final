@@ -1,7 +1,8 @@
-
-
 header{
+    text-align: center;
     background-color: aquamarine;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 header h1{
@@ -20,16 +21,10 @@ header p{
 }
 
 .first-section a {
-    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
     color: blueviolet;
-}
-
-.first-section ul {
-    text-align: center;
-}
-
-.first-section ol {
-    text-align: center;
 }
 
 table{
@@ -39,8 +34,6 @@ table{
     background-color: rgb(184, 174, 240);
 }
 
-
-
 .tabela-resto   {
     background-color: aliceblue;
 }
@@ -49,12 +42,26 @@ table{
     background-color: rgb(179, 246, 244)  ;
 }
 
-*{
-    text-align: center;
-}
-
 article{
+    text-align: center;
     background-color: black;
     color: aliceblue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+article a{
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 500;
 }
 
+.alinhamento-listas{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 500px;
+}
+
+footer{
+    text-align: center;
+}
