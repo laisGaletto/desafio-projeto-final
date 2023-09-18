@@ -24,6 +24,14 @@ header p{
     color: blueviolet;
 }
 
+.first-section ul {
+    text-align: center;
+}
+
+.first-section ol {
+    text-align: center;
+}
+
 table{
     display: flex;
     margin: 1em;
